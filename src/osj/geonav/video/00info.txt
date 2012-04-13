@@ -1,0 +1,8 @@
+The package is an attempt to see if there is a way to insert GPS information into a movie.
+The idea is that you would have a video of your movement, but with the movement being
+displayed in a map on the side. While this could be stored in a separate file, it would
+be nice if this could be part of the file, so it isn't separated.
+
+Currently non-functional. It was originally written to use the Quicktime for Java API,
+but given its current state I gave up on that. Need to identify if there is another way 
+of merging this data and also extracting this data at playback.
